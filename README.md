@@ -13,11 +13,11 @@ Sequence Models
  Structuring Machine Learning Projects
  Convolutional Neural Networks
  Sequence Models
-Deep Learning - deeplearning.ai
-Coursera Deep Learning Course by deeplearning.ai projects
+ Deep Learning - deeplearning.ai
+ Coursera Deep Learning Course by deeplearning.ai projects
 
 # Course 1. Neural Networks and Deep Learning
-Week1 - Introduction to deep learning
+Week1 - Introduction to deep learning/n
 Week2 - Neural Networks Basics
 Week3 - Shallow neural networks
 Week4 - Deep Neural Networks
